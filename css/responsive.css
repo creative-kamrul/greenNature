@@ -1,0 +1,280 @@
+@media (min-width:320px) and (max-width:576px){
+    
+        /* *****header part*****/
+    
+    #header_part p{
+        font-size: 10px;
+        text-align: center;
+    }
+    
+    #header_part span{
+        margin-left: 15px;
+    }
+    
+    #header_part .icon{
+        text-align: center;
+    }
+    
+    
+    
+         /* *****header part*****/
+    
+    
+    
+    
+    
+    
+    
+    
+            /* *****navbar part*****/
+    
+    
+    .navbar{
+       padding: .5rem 1rem; 
+    }
+    
+    .navbar-brand{
+        margin-right: 0;
+    }
+    
+    .navbar-brand img{
+        width: 50%;
+    }
+    
+    button i{
+        color: #fff;
+        font-size: 25px;
+    }
+    
+    .btn{
+        display: none;
+    }
+    
+    .cart{
+        display: none;
+    }
+    
+    ul li a:after{
+        display: none;
+    }
+    
+    ul li{
+        text-align: center;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    
+    ul li a{
+        font-size: 18px;
+    }
+    
+            /* *****navbar part end*****/
+    
+    
+    
+    
+    
+    
+    
+    
+            /* *****banner part start*****/
+    
+    #banner_part .banner{
+        padding-top: 201px;
+        padding-bottom: 214px;
+    }
+    
+    #banner_part .banner .text{
+        text-align: center;
+    }
+    
+    #banner_part .banner .text h2{
+        font-size: 30px;
+    }
+    
+    #banner_part .banner .text h1{
+        font-size: 54px;
+    }
+    #banner_part .banner .text h3{
+        font-size: 35px;
+    }
+    #banner_part .banner .text a{
+        padding: 12px 21px;
+    }
+    
+    
+    
+    
+    #banner_part .two{
+        padding-top: 280px;
+        padding-bottom: 268px;
+    }
+    #banner_part .two .text h2{
+        color: #fff;
+        font-size: 32px;
+    }
+    #banner_part .two .text h3{
+        color: #fff;
+        font-size: 30px;
+    }
+    
+    
+    
+    #banner_part .three{
+        padding-top: 257px;
+        padding-bottom: 282px;
+    }
+    
+    #banner_part .three .text h2{
+        font-size: 30px;
+    }
+    #banner_part .three .text h3{
+        font-size: 28px;
+        width: auto;
+    }
+    
+    #banner_part .preA{
+        font-size: 32px;
+        left: 15px;
+    }
+    
+    #banner_part .nxtA{
+        font-size: 32px;
+        right: 5px;
+    }
+            /* *****banner part end*****/
+    
+    
+    
+    
+    
+    
+    
+            /* *****donate part start*****/
+    
+    #donate_part .right{
+        margin-top: 35px;
+    }
+    
+            /* *****donate part end*****/
+    
+    
+    
+    
+    
+    
+            /* *****project part start*****/
+    
+    #project_part .heading img{
+        width: 35px;
+        height: 35px;
+    }
+    #project_part .heading h2{
+        font-size: 14px;
+        top: 6px;
+        left: 55px;
+    }
+    
+    #project_part .heading a{
+        margin-top: 6px;
+        letter-spacing: 0;
+        margin-left: 62%;
+    }
+    
+            /* *****project part end*****/
+    
+    
+    
+    
+    
+    
+            /* *****hati part start*****/
+    
+    #hati_bg .detail .icon img{
+        width: 35px;
+        height: 35px;
+    }
+    
+    #hati_bg .detail .text{
+        margin-left: 20px;
+    }
+    #hati_bg .detail .text h3{
+        font-size: 15px;
+    }
+    
+    #hati_bg .detail .text p{
+        font-size: 11px;
+        width: auto;
+    }
+    #hati_bg .bg_right{
+        padding: 50px 30px;
+    }
+    
+    #project_part .project .image{
+        margin-top: 20px;
+    }
+    
+            /* *****hati part end*****/
+    
+    
+    
+    
+    
+    
+    
+            /* *****hati part end*****/
+    
+    #newsletter .text input{
+        width: 290px;
+        margin: 0 auto;
+    }
+    
+    
+            /* *****hati part end*****/
+    
+    
+    
+    
+    
+    
+            /* *****footer part start*****/
+    
+    #footer_part{
+        text-align: center;
+    }
+    
+    #footer_part .image{
+        width: auto;
+        margin: 0 auto;
+    }
+    
+    #footer_part .image img{
+        width: 28%;
+    }
+    
+            /* *****footer part end*****/
+    
+    
+    
+    
+    
+            /* *****copywrite part start*****/
+    
+    #cpywrite .items{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    #cpywrite .items .right span{
+        margin-left: 22px;
+    }
+    
+    #cpywrite .items .right{
+        margin-left: 0;
+    }
+
+    
+    
+    
+}
